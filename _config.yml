@@ -7,8 +7,8 @@ description: |
     Instructor: Rob Patro
 
 message: Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/CSE373S19" # the subpath of your site, e.g. /blog/
-url: "https://rob-p.github.io/CSE373S19" # the base hostname & protocol for your site
+baseurl: "/CMSC858D" # the subpath of your site, e.g. /blog/
+url: "https://rob-p.github.io/CMSC858D" # the base hostname & protocol for your site
 # githubdir: "rob-p/CMSC858D"
 
 # Author/user information
