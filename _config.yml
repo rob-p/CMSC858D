@@ -12,10 +12,10 @@ url: "https://rob-p.github.io/CMSC858D" # the base hostname & protocol for your 
 # githubdir: "rob-p/CMSC858D"
 
 # Author/user information
-email: instructor-last-name@iust.ac.ir
-twitter_username: username 
-github_username:  username
-authorurl: "http://author-url.com/page"
+#email: instructor-last-name@iust.ac.ir
+#twitter_username: username 
+#github_username:  username
+#authorurl: "http://author-url.com/page"
 address: |
     Department of Computer Science
     University of Maryland
