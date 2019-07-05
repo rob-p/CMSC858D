@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
+title: No lectures yet
 slides: https://google.com
 notes: /static_files/presentations/lec.zip
 codes: /static_files/presentations/code.zip
