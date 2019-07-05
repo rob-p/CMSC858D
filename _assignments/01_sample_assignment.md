@@ -5,6 +5,6 @@ title: 'No assignments yet'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
-due: 2018-11-13T23:59:00+3:30
+due: 2019-09-15T23:59:00-4:00
 ---
 This is a sample assignment.
