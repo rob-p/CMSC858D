@@ -105,7 +105,7 @@ The following is a planned schedule of the material we will cover in the course,
 
 The course website is [https://rob-p.github.io/CMSC858D/](https://rob-p.github.io/CMSC858D/), which is probably where you are reading this right now.
 
-The course has a Piazza page, and you can enroll [here](piazza.com/umd/fall2019/cmsc858d).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
+The course has a Piazza page, and you can enroll [here](https://piazza.com/umd/fall2019/cmsc858d).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
 
 Assignments will be posted and collected [via ELMS](https://myelms.umd.edu/courses/1272837).
 
