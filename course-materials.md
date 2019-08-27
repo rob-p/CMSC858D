@@ -111,7 +111,7 @@ Assignments will be posted and collected [via ELMS](https://myelms.umd.edu/cours
 
 ## Course Policies
 
-**Coursework and grading**: The coursework will consist of 2-3 homework projects, a final project, and a final exam (on the University-scheduled date of Dec 17.). 
+**Coursework and grading**: The coursework will consist of 2-3 homework projects, a final project, and a final exam. 
 Students will have an opportunity to select their final project in mid Oct.; there will be a few projects to choose from, and students will also be allowed to propose their own projects.  The projects are to be done either alone, or in teams of 2. For the final project,  the deliverables will consist of runnable code (including a link to a version-controled repository containing the source), and a short (4-5 page) research-style paper describing the work you've done. The breakdown of weights for these different assignments will be as follows:
 
 - Homeworks — 20%
