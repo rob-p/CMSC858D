@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2010-08-26
+date: 2019-08-27
 title: Introduction
 slides: /static_files/presentations/CMSC858D-Lec01.pdf
 #notes: /static_files/presentations/lec.zip
