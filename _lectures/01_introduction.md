@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: No lectures yet
-slides: https://google.com
-notes: /static_files/presentations/lec.zip
-codes: /static_files/presentations/code.zip
-tldr: "Short text to discribe what this lecture is about."
+date: 2019-08-27
+title: Introduction
+slides: /static_files/presentations/CMSC858D-Lec01.pdf
+#notes: /static_files/presentations/lec.zip
+#codes: /static_files/presentations/code.zip
+tldr: "Introduction to the class and some basic bio."
 thumbnail: /static_files/presentations/lec.jpg
 ---
