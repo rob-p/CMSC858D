@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2019-09-03
-title: 'First Reading (read by Sept. 5)'
+title: 'Read Suffix Arrays Paper'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
