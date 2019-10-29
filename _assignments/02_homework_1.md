@@ -5,7 +5,7 @@ title: 'Homework 1'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 2019-10-29
+due: 2019-11-05T23:59:00-4:00
 ---
 
 # CMSC858D Homework 1 : Implementing some succinct primitives
@@ -77,7 +77,7 @@ If you end up deriving some piece of your code from a source you encounter (eith
  **Writeup**: For this programming task, test your implementation by invoking it for bit vectors of various sizes, and plotting the bit-vector size (say N) versus the time requried to do some fixed number of select operations.  Also, plot the bit-vector size (say N) versus the result of calling the `overhead()` function.  Does your implementation match the expected theoretical bounds?  _If you feel ambitious_, you can additionally implement a constant-time bit-vector select, though this is not required.
  
  
- ## Task 3 — wavelet tree construction and query.
+## Task 3 — wavelet tree construction and query.
 
  Implement wavelet tree construction, serialization, and the operations `access(i)`, `rank(c, i)`, and `select(c, i)`. You can use any wavelet tree construction algorithm you wish.  I suggest looking [here](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975055.2) for some simple yet efficient algorithms for wavelet tree construction.
  
